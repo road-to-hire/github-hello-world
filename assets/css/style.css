@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	height: 100vh;
+}
+
+.page-content {
+	position: absolute;
+	width: 100%;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.github-img img {
+	height: 300px;
+	width: auto;
+	margin: 0 auto;
+	display: block;
+}
+
+h1 {
+	font-family: Ubuntu, sans-serif;
+	font-weight: 300;
+	color: #ccc;
+	text-align: center;
+}
